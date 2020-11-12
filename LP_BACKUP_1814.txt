@@ -6,7 +6,11 @@ add 2
 add 3
 add 4
 add 5
+<<<<<<< HEAD
 add 55
+=======
+ici aussi
+>>>>>>> 23d7b8c28ea1e2876f5f861eaeae36b901126f23
 add6
 add61
 

@@ -1,5 +1,5 @@
 nouveau fichier
-ajout de nico
+
 add 1
 add 2
 
@@ -14,5 +14,3 @@ add 7
 add10
 
 ////
-
-
